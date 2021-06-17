@@ -7,6 +7,8 @@ Hi there 👋
 
 [![nathaliathais GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliathais)](https://github.com/nathaliathais/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliathais&langs_count=8)](https://github.com/nathaliathais/github-readme-stats)
+
 Languages
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
